@@ -216,8 +216,5 @@ RUBRIC (100 POINTS TOTAL)
 	= Code must be original and well-commented
 
 --------------------------------------------------
-Extra Credit Opportunity
-- Design the website to be accessible
-- Design the website for a real business
-- Design the website to be responsive (mobile vs desktop)
+
 
