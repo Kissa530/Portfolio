@@ -123,7 +123,6 @@ Interactive features make the website easier to navigate, provide immediate feed
 
 --------------------------------------------------
 
-- Web Design Document:
   # any external resources used (links)
   https://developer.mozilla.org/
   Used as a reference for HTML, CSS, and JavaScript syntax and documentation.
