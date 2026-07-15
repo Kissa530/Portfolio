@@ -192,8 +192,7 @@ Interactive features make the website easier to navigate, provide immediate feed
 	   - Included in this repository.
 
 	   ---
-	   
-	   # interaction / functionality
+	# interaction / functionality
         The portfolio website includes several interactive features to improve navigation and user experience.
         - A responsive navigation bar allows users to quickly jump to different sections of the webpage.
         - The View Projects button uses JavaScript to smoothly scroll to the Projects section.
