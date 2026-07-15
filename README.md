@@ -118,101 +118,114 @@ Users will recieve confirmation messages after successful form validation and cl
 5. How does interactivity improve the user experience?
 Interactive features make the website easier to navigate, provide immediate feedback to users, and create a more engaging experience while maintaining a professional appearance.
 
---------------------------------------------------
-RUBRIC (100 POINTS TOTAL)
-
-1. Content (40 points)
-	- Clear professional identity and goals
-	- Completeness and clarity of answers 
-	- Quality of written content 
-	- Organization and structure 
-2. Design (40 points)
-	- Visual consistency and professionalism 
-	- Effective color and typography choices 
-	- Layout, usability, and responsiveness
-	- Accessibility considerations
-3. Interactivity (20 points)
-	- Appropriate and meaningful interactive features
-	- Functionality and usability
 
 --------------------------------------------------
 
-- Web Design Document: this will be the README.md file in your repo. This includes :
-	= all the questions as well as your answers
-	= any external resources used (links)
-	- MDN Web Docs
+- Web Design Document:
+  # any external resources used (links)
   https://developer.mozilla.org/
   Used as a reference for HTML, CSS, and JavaScript syntax and documentation.
 
-  - W3Schools
-  https://www.w3schools.com/
+  - W3Schools - https://www.w3schools.com/
   Used for HTML, CSS, and JavaScript examples and tutorials.
 
-  - GitHub Pages Documentation
-  https://docs.github.com/en/pages
+  - GitHub Pages Documentation - https://docs.github.com/en/pages
   Used to learn how to publish the portfolio website. The website is designed to be hosted using GitHub Pages so it can be accessed online by employers, professors, and peers.
 
-  - Figma
-  https://www.figma.com/
+  - Figma - https://www.figma.com/
   Used to create the website wireframe.
 
-  - ChatGPT
-  https://chatgpt.com/
+  - ChatGPT - https://chatgpt.com/
   Used for debugging, explaining HTML/CSS/JavaScript concepts, and brainstorming portfolio content.
 
 - wireframe design (hand-drawn/computer-aided)
-	= main sections to include:
-- project overview
+	*(Insert wireframe image here)*
+## project overview
 		A personal portfolio website coded using HTML, CSS and JavaScript. This site is a single page site that highlights all of my skills, projects and links my resume, LinkedIn and GitHub.
-- target audience
-		Peers, recruiters, hiring managers, future employers and professors
-- content strategy
+	---
+# target audience
+		- Peers
+		- recruiters 
+		- hiring managers 
+		- future employers 
+		- professors
+	---
+# content strategy
 		Content focuses on facts about myself, what skills I have, what projects have I made and a contact button to contact me by email, specifally Gmail.
-- information organization
-		   Home   Profile pic, Bio, View Projects button
-           About  Bio paragraph
-           Skills Any programming or technical skills 
-           Projects 3 projects with a brief description on how they work
-           Resume Links the resume and options are to view or download
-           Contact Email form, GitHub and LinkedIn
-- visual desing (wireframe and more)
+	---
+# information organization
+		   ## Home   
+		   - Profile picture
+		   - Bio 
+		   - View Projects button
+           ## About  
+		   - Bio paragraph
+           ## Skills 
+		   - Programming languages
+		   - technical skills 
+           ## Projects
+		   - 3 projects with a brief description on how they work
+           ## Resume 
+		   - Links the resume and options are to view or download
+           ## Contact
+		   - Contact form 
+		   - Email link
+		   - GitHub
+		   - LinkedIn
+		---
+# visual design (wireframe and more)
         The website follows a clean, modern, and professional design intended for a software engineering portfolio.
-        Color Scheme:
-        Dark Blue (#0b3d91)
-        Light Blue (#1e88e5)
-        Light Gray (#f4f6f8)
-        White
-        Typography:
-        Arial, sans-serif
-        Layout:
-        Single-page responsive design
-        Simple navigation bar
-        Clearly separated content sections
-        Wireframe: Included in this repository.
-- interaction / functionality
+        ## Color Scheme:
+        - Dark Blue (#0b3d91)
+        - Light Blue (#1e88e5)
+        - Light Gray (#f4f6f8)
+        - White
+        ## Typography:
+        - Arial, sans-serif
+       ## Layout:
+       - Single-page responsive design
+       - Simple navigation bar
+        - Clearly separated content sections
+       ## Wireframe 
+	   - Included in this repository.
+
+	   ---
+	   
+	   # interaction / functionality
         The portfolio website includes several interactive features to improve navigation and user experience.
-        A responsive navigation bar allows users to quickly jump to different sections of the webpage.
-        The View Projects button uses JavaScript to smoothly scroll to the Projects section.
-        The contact form validates that all required fields are completed before allowing submission and provides feedback to the user.
-        Visitors can view or download my resume directly from the Resume section.
-        GitHub and LinkedIn buttons provide quick access to my professional profiles.
-        The website is responsive, allowing it to adapt to different screen sizes such as desktops, tablets, and mobile devices using CSS media queries.
-        Buttons include hover effects to provide visual feedback when users interact with them.
-- technical overview
-		index.html Contains the overall structure and content of the website, including all portfolio sections.
-		style.css Provides styling, responsive layout, colors, typography, spacing, and visual effects.
-		Script.js Implements JavaScript functionality, including smooth scrolling, project navigation, and contact form validation.
-		resume.pdf Professional resume available for viewing or downloading.
-		profile.jpeg Professional profile picture displayed on the homepage.
-- timeline / project milestone
-		Content planning	✅ Complete
-        Design planning	✅ Complete 
-        Interactivity planning	✅ Complete 
-        HTML	✅ Complete
-        CSS	✅ Complete
-        JavaScript	✅ Complete
-        Deployed to GitHub Pages  ✅ Complete 
-- The website files (HTML, CSS, JS)
+        - A responsive navigation bar allows users to quickly jump to different sections of the webpage.
+        - The View Projects button uses JavaScript to smoothly scroll to the Projects section.
+        - The contact form validates that all required fields are completed before allowing submission and provides feedback to the user.
+        - Visitors can view or download my resume directly from the Resume section.
+        - GitHub and LinkedIn buttons provide quick access to my professional profiles.
+        - The website is responsive, allowing it to adapt to different screen sizes such as desktops, tablets, and mobile devices using CSS media queries.
+        - Buttons include hover effects to provide visual feedback when users interact with them.
+
+		 ---
+# technical overview
+		## index.html 
+		Contains the overall structure and content of the website, including all portfolio sections.
+		## style.css 
+		Provides styling, responsive layout, colors, typography, spacing, and visual effects.
+		## Script.js 
+		Implements JavaScript functionality, including smooth scrolling, project navigation, and contact form validation.
+		## resume.pdf 
+		Professional resume available for viewing or downloading.
+		## profile.jpeg 
+		Professional profile picture displayed on the homepage.
+		---
+# timeline / project milestone
+		- Content planning	✅ Complete
+        - Design planning	✅ Complete 
+        - Interactivity planning	✅ Complete 
+        - HTML	✅ Complete
+        - CSS	✅ Complete
+        - JavaScript	✅ Complete
+        - Deployed to GitHub Pages  ✅ Complete
+
+		---
+  
+# The website files (HTML, CSS, JS)
 	= Code must be original and well-commented
 
 --------------------------------------------------
