@@ -1,14 +1,6 @@
 # Khalid-Issa-Portfolio-CSCI-355-Project-1
 
-PERSONAL PORTFOLIO WEBSITE PROJECT
 
-Overview:
-Create a personal portfolio website completely from scratch. This website should represent you professionally and showcase your skills, background, and work. The project is divided into THREE parts:
-1. Content
-2. Design
-3. Interactivity
-
-You will plan and justify your choices before implementation.
 
 --------------------------------------------------
 PART 1: CONTENT (Answer ALL questions)
@@ -144,13 +136,7 @@ RUBRIC (100 POINTS TOTAL)
 	- Functionality and usability
 
 --------------------------------------------------
-Submission Requirements:
 
-How to submit:
-* Everything is to be posted on GitHub and the website need to be hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-* Submit only the GitHub Repo and Website URL link on Brightspace
-
-What to include in the repo:
 - Web Design Document: this will be the README.md file in your repo. This includes :
 	= all the questions as well as your answers
 	= any external resources used (links)
