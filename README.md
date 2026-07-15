@@ -73,6 +73,7 @@ Contact
 ↓
 
 Footer
+
 ## 6. How will you organize project sections visually?
 Projects displayed as responsive cards containing things such as a Screenshot, Project title, Description, Technologies used and GitHub link
 ## 7. Will the site be mobile-friendly? How will you ensure responsiveness?
@@ -95,6 +96,7 @@ Buttons
 ↓
 
 Footer
+
 ## 9. How will consistency be maintained across pages?
 Same colors, Same fonts, Same spacing, Same navigation, Same button styles etc
 ## 10. How will accessibility be considered (contrast, font size, readability)?
