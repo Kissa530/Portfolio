@@ -12,7 +12,7 @@ The purpose of my portfolio website is to showcase my technical skills, academic
 ## 3. Who is the target audience (employers, clients, peers, etc.)?
 Employers, clients, peers, hiring managers, recruiters
 ## 4. What skills do you want to highlight?
-C++, Java, Python, SQL (MySQL), HTML, CSS, JS, Cloud Computing
+C++, Java, Python, SQL (MySQL), HTML, CSS, JavaScript, Cloud Computing
 ## 5. What projects or work will you showcase?
 Student Information System using Java, MySQL and CRUD. Developed a console-based Student Information System integrating Java with MySQL using a JDBC Driver for full CRUD operations across multiple relational tables. System supporting students, instructors, courses, sections and enrollment records. Implemented complex SQL joins for academic reporting and enrollment tracking.
 ## 6. How will you describe yourself in a short professional bio?
@@ -22,7 +22,7 @@ Home, About, Skills, Projects, Resume, Contact
 ## 8. What is your career goal or desired role?
 To become a Software Engineer or Full-Stack Developer and contribute to building scalable and user-friendly software applications.
 ## 9. What technologies or tools do you have experience with?
-HTML, CSS, JS, Java, C++, Python, MySQL, GitHub, Docker, Kubernetes, Google Cloud Platform, Linux, Ubuntu
+HTML, CSS, JavaScript, Java, C++, Python, MySQL, GitHub, Docker, Kubernetes, Google Cloud Platform, Linux, Ubuntu
 ## 10. What achievements or experiences are worth highlighting?
 Computer science coursework, Database project using MySQL and Java, Cloud computing projects
 ## 11. What call-to-action should visitors take (contact you, view projects, download resume)?
