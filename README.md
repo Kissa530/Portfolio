@@ -151,7 +151,7 @@ Interactive features make the website easier to navigate, provide immediate feed
 		- professors
 	---
 # content strategy
-		Content focuses on facts about myself, what skills I have, what projects have I made and a contact button to contact me by email, specifally Gmail.
+		Content focuses on facts about myself, what skills I have, what projects have I made and a contact button to contact me by email, specifically Gmail.
 	---
 # information organization
 		   ## Home   
